@@ -71,15 +71,7 @@ Runnable test scenarios
 Easy future expansion
 
 🧱 Project Structure
-/src
- ├── main/java
- │     └── pageobjects  → POM classes for each section
- │
- ├── test/java
- │     └── tests → TestNG test cases
- │
- └── resources
-        └── upload files, config, drivers
+<img width="764" height="298" alt="image" src="https://github.com/user-attachments/assets/2b4f9dd5-b8e8-433b-bd01-c2ab30bc2d05" />
 
 🎯 Purpose of This Project
 
